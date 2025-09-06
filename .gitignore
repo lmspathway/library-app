@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+out/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# MacOS
+.DS_Store
+
+# VS Code
+.vscode/
+.history/
+
+# Jest coverage
+coverage/
+
+# Optional npm cache
+.npm/
+
+# Optional lock files
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.tmp
+*.temp
