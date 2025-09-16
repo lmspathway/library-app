@@ -6,7 +6,7 @@ The main purpose of this software is to practice and demonstrate key features of
 
 Through this project, I aimed to strengthen my understanding of how TypeScript enhances JavaScript with type safety, object-oriented programming, and better tooling.  
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/QVpYZD94vOk)
 
 # Development Environment
 
